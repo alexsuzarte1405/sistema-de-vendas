@@ -1,5 +1,5 @@
 -- ==========================================================
--- ATIVIDADE: SISTEMA DE VENDAS COM PROCEDURE
+-- SISTEMA DE VENDAS COM PROCEDURE
 -- BANCO DE DADOS: PostgreSQL
 -- ==========================================================
 
